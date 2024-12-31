@@ -14,5 +14,7 @@
 "native_advance_ad_id":"ca-app-pub-3940256099942544/2247696110",
 "is_native_advance_direct_msg_screen":true,
 "is_native_advance_reels_download":true,
-"is_yt_shorts_btn_option": true
+"is_yt_shorts_btn_option": true,
+"google_app_open":"ca-app-pub-3940256099942544/9257395921",
+"is_google_app_open":true
 }
